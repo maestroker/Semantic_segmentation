@@ -1,14 +1,14 @@
 Actividades:
 -Etapa 1:
-  *Investigación de conceptos de segmentación semantica
-  *Aprendizaje de utilización de librería "tensorflow"
-  *Desarrollo de algoritmo en lenguaje python con la librería "tensorflow"
-  *Pruebas, entrenamiento y corrección del programa.
+  *Investigación de conceptos de segmentación semantica (2 semanas)
+  *Aprendizaje de utilización de librería "tensorflow" (1 semana)
+  *Desarrollo de algoritmo en lenguaje python con la librería "tensorflow" (4 semanas)
+  *Pruebas, entrenamiento y corrección del programa. (2 semana)
 -Etapa 2:
-  *Selección del camino de  acuerdo a respuesta de la segmentación
-  *Pruebas, entrenamiento y corrección de programa para selección de ruta para movilización
+  *Selección del camino de  acuerdo a respuesta de la segmentación (2 semanas)
+  *Pruebas, entrenamiento y corrección de programa para selección de ruta para movilización (2 semanas)
 -Etapa 3:
-  *Desarrollo de control de motores de acuerdo a la selección de camino.
-  *Pruebas, entrenamiento y correción del programa.
+  *Desarrollo de control de motores de acuerdo a la selección de camino. (3 semanas)
+  *Pruebas, entrenamiento y correción del programa. (2 semanas)
   ------------------------------------------Apuntes-----------------------------------------
   
