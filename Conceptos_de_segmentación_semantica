@@ -9,6 +9,7 @@ Pagina conceptos:
 -https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim
 -http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review
 -http://cv-tricks.com/image-segmentation/transpose-convolution-in-tensorflow/
+-https://github.com/sagieppel/Fully-convolutional-neural-network-FCN-for-semantic-segmentation-Tensorflow-implementation
 Datasets:
 -http://host.robots.ox.ac.uk/pascal/VOC/voc2012/
 -http://cocodataset.org/#home
