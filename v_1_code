@@ -1,0 +1,7 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Jan 28 22:36:30 2018
+@author: Daniel Delgado Rodriguez
+Descripción: Red convolucional para segmentación semántica 
+Última modificación: Jan 28 22:36:30 2018
+"""
