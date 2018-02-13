@@ -14,3 +14,5 @@ Datasets:
 -http://host.robots.ox.ac.uk/pascal/VOC/voc2012/
 -http://cocodataset.org/#home
 -
+Funcones de tf:
+-https://www.tensorflow.org/versions/r0.12/api_docs/python/math_ops/
