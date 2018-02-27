@@ -14,6 +14,7 @@ Pagina conceptos:
 -https://www.tensorflow.org/tutorials/layers (((RECOMENDADO PARA CONCEPTOS)))
 -http://www.robots.ox.ac.uk/~vgg/research/very_deep/ (MODELOS PRE-ENTRENADOS CONCEPTO)
 http://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/ (CONCEPTO VGG)
+-https://machinelearningmastery.com/use-pre-trained-vgg-model-classify-objects-photographs/ (MODELOS VGG)
 Datasets:
 -http://host.robots.ox.ac.uk/pascal/VOC/voc2012/
 -http://cocodataset.org/#home
