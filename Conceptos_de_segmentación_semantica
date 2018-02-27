@@ -11,6 +11,7 @@ Pagina conceptos:
 -http://cv-tricks.com/image-segmentation/transpose-convolution-in-tensorflow/
 -https://github.com/sagieppel/Fully-convolutional-neural-network-FCN-for-semantic-segmentation-Tensorflow-implementation
 -http://grupo.us.es/gtocoma/pid/pid10/RedesNeuronales.htm
+-https://www.tensorflow.org/tutorials/layers (((RECOMENDADO PARA CONCEPTOS)))
 Datasets:
 -http://host.robots.ox.ac.uk/pascal/VOC/voc2012/
 -http://cocodataset.org/#home
