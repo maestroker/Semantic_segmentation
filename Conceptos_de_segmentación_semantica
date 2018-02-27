@@ -16,6 +16,9 @@ Pagina conceptos:
 -http://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/ (CONCEPTO VGG)
 -https://kivantium.net/keras-fcn (CONCEPTO DE FULLY CONVOLUTIONAL NETWORK)
 -https://machinelearningmastery.com/use-pre-trained-vgg-model-classify-objects-photographs/ (MODELOS VGG)
+-https://meetshah1995.github.io/semantic-segmentation/deep-learning/pytorch/visdom/2017/06/01/semantic-segmentation-over-the-years.html (SEGMENTACIÓN SEMANTICA FULLY CONVOLUTIONAL)
+-https://github.com/meetshah1995/pytorch-semseg (SEGMENTACIÓN PYTORCH)
+-http://pytorch.org/ (PYTORCH OFICIAL)
 Datasets:
 -http://host.robots.ox.ac.uk/pascal/VOC/voc2012/
 -http://cocodataset.org/#home
