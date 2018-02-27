@@ -17,3 +17,6 @@ Datasets:
 -http://host.robots.ox.ac.uk/pascal/VOC/voc2012/
 -http://cocodataset.org/#home
 -
+Librerias:
+-http://dataset.readthedocs.io/en/latest/install.html (Datasets)
+-https://stackoverflow.com/questions/42319101/importerror-no-module-named-datasets (Solución instalación)
