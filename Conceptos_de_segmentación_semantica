@@ -19,6 +19,7 @@ Pagina conceptos:
 -https://meetshah1995.github.io/semantic-segmentation/deep-learning/pytorch/visdom/2017/06/01/semantic-segmentation-over-the-years.html (SEGMENTACIÓN SEMANTICA FULLY CONVOLUTIONAL)
 -https://github.com/meetshah1995/pytorch-semseg (SEGMENTACIÓN PYTORCH)
 -http://pytorch.org/ (PYTORCH OFICIAL)
+-https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim (TF-SLIM)
 Datasets:
 -http://host.robots.ox.ac.uk/pascal/VOC/voc2012/
 -http://cocodataset.org/#home
