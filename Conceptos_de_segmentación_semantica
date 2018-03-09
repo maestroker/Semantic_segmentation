@@ -21,6 +21,8 @@ Pagina conceptos:
 -http://pytorch.org/ (PYTORCH OFICIAL)
 -https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim (TF-SLIM)
 -https://devblogs.nvidia.com/int8-inference-autonomous-vehicles-tensorrt/
+-http://on-demand.gputechconf.com/gtc-eu/2017/presentation/53021-joohoon-lee-deployment-of-semantic-segmentation-network-using-tensorrt.pdf
+-http://on-demand.gputechconf.com/gtc/2017/presentation/s7210-aaron-mosher-deep-learning-applications-for-embedded-avionics.pdf
 Datasets:
 -http://host.robots.ox.ac.uk/pascal/VOC/voc2012/
 -http://cocodataset.org/#home
