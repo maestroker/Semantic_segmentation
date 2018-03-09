@@ -20,6 +20,7 @@ Pagina conceptos:
 -https://github.com/meetshah1995/pytorch-semseg (SEGMENTACIÓN PYTORCH)
 -http://pytorch.org/ (PYTORCH OFICIAL)
 -https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim (TF-SLIM)
+-https://devblogs.nvidia.com/int8-inference-autonomous-vehicles-tensorrt/
 Datasets:
 -http://host.robots.ox.ac.uk/pascal/VOC/voc2012/
 -http://cocodataset.org/#home
